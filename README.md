@@ -1,4 +1,5 @@
 # React Piano
+<img src="./screenshot.png" alt="Screenshot" />
 This is a simple opensource piano for someone who want's to learn a bit about working with AudioContext in js an also It's a good practice to increase your skills in web development.
 You can also start changing and updating some parts of the code and make it event better.
 
